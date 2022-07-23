@@ -7,4 +7,9 @@
 6. Click on push, Connect the repository using https
 7. for any further changes commit, comment, push
 
+
+sync somebody else system
+1. click on clone
+2. use other users' git URL
+3. click clone
 '''
